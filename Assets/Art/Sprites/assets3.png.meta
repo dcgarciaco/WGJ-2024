@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_1
+      name: plato_sucio_2
       rect:
         serializedVersion: 2
         x: 483
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_2
+      name: olla_sucia
       rect:
         serializedVersion: 2
         x: 767
@@ -211,10 +211,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_4
+      name: tabla_picar_sucia
       rect:
         serializedVersion: 2
-        x: 462
+        x: 460
         y: 758
         width: 95
         height: 120
@@ -232,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_5
+      name: manzana
       rect:
         serializedVersion: 2
         x: 744
@@ -253,7 +253,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_6
+      name: bananos
       rect:
         serializedVersion: 2
         x: 985
@@ -284,7 +284,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_7
+      name: cuchillo
       rect:
         serializedVersion: 2
         x: 510
@@ -326,7 +326,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_9
+      name: utensilios_sucios
       rect:
         serializedVersion: 2
         x: 339
@@ -347,7 +347,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_10
+      name: canasta_vacia
       rect:
         serializedVersion: 2
         x: 711
@@ -368,7 +368,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_11
+      name: canasta_llena
       rect:
         serializedVersion: 2
         x: 991
@@ -431,7 +431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_15
+      name: mesa_izq
       rect:
         serializedVersion: 2
         x: 310
@@ -452,7 +452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_16
+      name: mesa_mitad
       rect:
         serializedVersion: 2
         x: 666
@@ -473,7 +473,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_17
+      name: mate
       rect:
         serializedVersion: 2
         x: 917
@@ -494,10 +494,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_18
+      name: pollo_quemado
       rect:
         serializedVersion: 2
-        x: 1116
+        x: 1118
         y: 107
         width: 189
         height: 169
@@ -515,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets3_3
+      name: mesa_derecha
       rect:
         serializedVersion: 2
         x: 443
@@ -547,26 +547,26 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       assets3_0: -1908415073
-      assets3_1: 1435143052
-      assets3_10: -750858011
-      assets3_11: 1702955556
       assets3_13: 1255498828
       assets3_14: 1914772586
-      assets3_15: 1488223433
-      assets3_16: 1664473539
-      assets3_17: 14736406
-      assets3_18: 1074553497
       assets3_19: -32266678
-      assets3_2: -1230854188
-      assets3_3: -21885597
-      assets3_4: -1437865204
-      assets3_5: 339728209
-      assets3_6: 1733392242
-      assets3_7: 1574241636
       assets3_8: -1369901589
-      assets3_9: -905571929
+      bananos: 1733392242
+      canasta_llena: 1702955556
+      canasta_vacia: -750858011
+      cuchillo: 1574241636
+      manzana: 339728209
+      mate: 14736406
+      mesa_derecha: -21885597
+      mesa_izq: 1488223433
+      mesa_mitad: 1664473539
+      olla_sucia: -1230854188
       pared_12: -432396135
       pared_13: 1521616198
+      plato_sucio_2: 1435143052
+      pollo_quemado: 1074553497
+      tabla_picar_sucia: -1437865204
+      utensilios_sucios: -905571929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
