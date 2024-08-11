@@ -197,6 +197,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1527216047}
     m_Modifications:
+    - target: {fileID: 1112308458597009756, guid: dcdbebec5da308e489e9804db99aa85c, type: 3}
+      propertyPath: m_Size.y
+      value: 1.8484426
+      objectReference: {fileID: 0}
+    - target: {fileID: 1112308458597009756, guid: dcdbebec5da308e489e9804db99aa85c, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.4957788
+      objectReference: {fileID: 0}
     - target: {fileID: 1423058987822916360, guid: dcdbebec5da308e489e9804db99aa85c, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.5
@@ -940,7 +948,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 2.9308424
+  orthographic size: 3.629029
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1032,6 +1040,14 @@ PrefabInstance:
     - target: {fileID: 530270361095416924, guid: a2d58803b38872f4cb65befe0d7c4145, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1505063460257403017, guid: a2d58803b38872f4cb65befe0d7c4145, type: 3}
+      propertyPath: m_Size.y
+      value: 1.9053695
+      objectReference: {fileID: 0}
+    - target: {fileID: 1505063460257403017, guid: a2d58803b38872f4cb65befe0d7c4145, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.4673153
       objectReference: {fileID: 0}
     - target: {fileID: 1518000276698888264, guid: a2d58803b38872f4cb65befe0d7c4145, type: 3}
       propertyPath: m_Name
@@ -1215,6 +1231,14 @@ PrefabInstance:
     - target: {fileID: 7541919329826725923, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
       propertyPath: m_Name
       value: wall_window (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818951347323107697, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
+      propertyPath: m_Size.y
+      value: 1.9152801
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818951347323107697, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.47236
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1794,6 +1818,14 @@ PrefabInstance:
     - target: {fileID: 7541919329826725923, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
       propertyPath: m_Name
       value: wall_window
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818951347323107697, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
+      propertyPath: m_Size.y
+      value: 1.8869033
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818951347323107697, guid: 009ddd422f1856740a34d72673e6ff9e, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.4865484
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

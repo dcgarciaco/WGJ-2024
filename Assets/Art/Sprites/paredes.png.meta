@@ -126,7 +126,7 @@ TextureImporter:
       name: paredes_0
       rect:
         serializedVersion: 2
-        x: 99
+        x: 102
         y: 193
         width: 48
         height: 840
@@ -218,7 +218,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -256, y: -85.5}
+        - {x: -256, y: 121.5}
+        - {x: 256, y: 121.5}
+        - {x: 256, y: -85.5}
       tessellationDetail: 0
       bones: []
       spriteID: a92896b0977fe524886ad7d21c961906
