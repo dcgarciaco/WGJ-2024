@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f6999f1598dc1f94c98186f75bffe896
+guid: 03c97ed3c4e5584438cd72f509fa9516
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nevera
+      name: esquinero_0
       rect:
         serializedVersion: 2
-        x: 407
-        y: 698
-        width: 185
-        height: 360
+        x: 24
+        y: 695
+        width: 323
+        height: 346
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d8e36440ecf31a40ae879272b1b8e16
-      internalID: 1058984202
+      spriteID: d748672b126141f4ebe02c4f150b90c0
+      internalID: 314810303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: horno_abierto
+      name: gaveta_cerrada
       rect:
         serializedVersion: 2
-        x: 611
-        y: 728
-        width: 229
-        height: 292
+        x: 422
+        y: 884
+        width: 190
+        height: 150
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b84c2afb41270c47b0a201d14c8c4da
-      internalID: -2103389652
+      spriteID: 19d8059e2b3cdb540984c824f781121e
+      internalID: 1045699560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: caneca_llena
+      name: gaveta_abierta
       rect:
         serializedVersion: 2
-        x: 885
-        y: 877
-        width: 141
-        height: 177
+        x: 682
+        y: 798
+        width: 190
+        height: 235
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d67061ae01a275449f1a3831b7f654d
-      internalID: 672976091
+      spriteID: a020f269f59b9104db070982d4ed1925
+      internalID: -1960625543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: encimera_sucia
+      name: baul
       rect:
         serializedVersion: 2
-        x: 1069
-        y: 767
-        width: 228
-        height: 220
+        x: 1088
+        y: 862
+        width: 222
+        height: 158
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40d228ae872861a40bd7c81025c1c9e4
-      internalID: -2088668626
+      spriteID: 658f836f5923e3c4ca7bfc537dd61a8f
+      internalID: -1377085872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: juguete1
+      name: planta_2
       rect:
         serializedVersion: 2
-        x: 417
-        y: 456
-        width: 153
-        height: 156
+        x: 1431
+        y: 577
+        width: 140
+        height: 338
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e9498b25e3230442b4215728578e793
-      internalID: -1150882329
+      spriteID: 229a1d66afdf4924f9fdbf753aca9e5c
+      internalID: -660112016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: juguete2
+      name: meson_lateral
       rect:
         serializedVersion: 2
-        x: 662
-        y: 481
-        width: 137
-        height: 122
+        x: 51
+        y: 430
+        width: 162
+        height: 213
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88e36e0c42a04324bb74414527399423
-      internalID: 752558153
+      spriteID: 0ac5d47a1405e3e43a2bb8f8c9d1b093
+      internalID: 823982826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pocillo_sucio
+      name: puerta_lateral_cerrada
       rect:
         serializedVersion: 2
-        x: 889
-        y: 545
-        width: 43
-        height: 40
+        x: 474
+        y: 549
+        width: 51
+        height: 173
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04515c3601cc7c241a76010f7ebd61c6
-      internalID: 1803023002
+      spriteID: 2b6c32a7c68ffa648842b435ce70dc23
+      internalID: -976059774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: utensilio_sucio
+      name: puerta_lateral_abierta
       rect:
         serializedVersion: 2
-        x: 970
-        y: 546
-        width: 72
-        height: 64
+        x: 696
+        y: 518
+        width: 164
+        height: 205
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b68935627dc89954faeca28d11cbe09c
-      internalID: -996184678
+      spriteID: e1d193b59985d8f46982fd2eb4a0a2b1
+      internalID: -137963766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: escoba
+      name: assets4_8
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 451
-        width: 89
-        height: 197
+        x: 1010
+        y: 549
+        width: 219
+        height: 223
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d584e0c551983c84f8b3f0b8c738e38b
-      internalID: 1605256427
+      spriteID: fa8ece9b1a5dccb4dbe885f2193cf980
+      internalID: 694486058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: plato_sucio
+      name: assets4_9
       rect:
         serializedVersion: 2
-        x: 884
-        y: 479
-        width: 63
-        height: 50
+        x: 75
+        y: 203
+        width: 112
+        height: 154
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac3cb9ac3512d5741a0537d2ec609141
-      internalID: 869209858
+      spriteID: bac57c4fb3184fc42a34ee6a1fd617eb
+      internalID: 1135537311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: florero
+      name: assets4_10
       rect:
         serializedVersion: 2
-        x: 910
-        y: 232
-        width: 71
-        height: 186
+        x: 258
+        y: 202
+        width: 191
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc8d680452c0a71458793ab216982d86
-      internalID: -553849663
+      spriteID: e46ffaab8f8f5244dbea481fead79c57
+      internalID: -414199903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mesa_sucia_izq
+      name: planta_1
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 220
-        width: 130
-        height: 204
+        x: 565
+        y: 165
+        width: 244
+        height: 218
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eddf2541fffa854092d77936371021a
-      internalID: -2004633657
+      spriteID: bfd06803e5fb1ca488b8ce09383b43ed
+      internalID: 1453836450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: silla_2
+      name: assets4_12
       rect:
         serializedVersion: 2
-        x: 879
-        y: 16
-        width: 114
-        height: 166
+        x: 914
+        y: 107
+        width: 146
+        height: 326
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7a68022e7f4b6a4f8f604b6e979ddb5
-      internalID: 2103376735
+      spriteID: 2af0d5818cefba1459ac929e3512d6b8
+      internalID: -1065315456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: silla_1
+      name: assets4_13
       rect:
         serializedVersion: 2
-        x: 1156
-        y: 19
-        width: 81
-        height: 179
+        x: 1188
+        y: 110
+        width: 145
+        height: 319
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,71 +410,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ebdd10aa77b6ed43a3168dffcb451eb
-      internalID: 2013382745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pollo_congelado
-      rect:
-        serializedVersion: 2
-        x: 1349
-        y: 62
-        width: 150
-        height: 111
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 101d11719904d8d41af7c65141c2ca53
-      internalID: 1026620917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: lavaplatos_sucio
-      rect:
-        serializedVersion: 2
-        x: 1298
-        y: 766
-        width: 228
-        height: 246
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a440f57b140ed0d4880e0530f14cfacc
-      internalID: -593284996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mesa_sucia_der
-      rect:
-        serializedVersion: 2
-        x: 1300
-        y: 220
-        width: 130
-        height: 204
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb8a4b89a53a0954ca2306e83882c6c4
-      internalID: -794155677
+      spriteID: 58f2a9ae337a1ae47a532e30a161e240
+      internalID: -1397883373
       vertices: []
       indices: 
       edges: []
@@ -490,24 +427,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      assets2_0: -585578366
-      caneca_llena: 672976091
-      encimera_sucia: -2088668626
-      escoba: 1605256427
-      florero: -553849663
-      horno_abierto: -2103389652
-      juguete1: -1150882329
-      juguete2: 752558153
-      lavaplatos_sucio: -593284996
-      mesa_sucia_der: -794155677
-      mesa_sucia_izq: -2004633657
-      nevera: 1058984202
-      plato_sucio: 869209858
-      pocillo_sucio: 1803023002
-      pollo_congelado: 1026620917
-      silla_1: 2013382745
-      silla_2: 2103376735
-      utensilio_sucio: -996184678
+      assets4_10: -414199903
+      assets4_12: -1065315456
+      assets4_13: -1397883373
+      assets4_8: 694486058
+      assets4_9: 1135537311
+      baul: -1377085872
+      esquinero_0: 314810303
+      gaveta_abierta: -1960625543
+      gaveta_cerrada: 1045699560
+      meson_lateral: 823982826
+      planta_1: 1453836450
+      planta_2: -660112016
+      puerta_lateral_abierta: -137963766
+      puerta_lateral_cerrada: -976059774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

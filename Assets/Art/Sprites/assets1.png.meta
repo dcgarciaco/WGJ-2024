@@ -131,7 +131,7 @@ TextureImporter:
         width: 185
         height: 360
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_1
+      name: horno_cerrado
       rect:
         serializedVersion: 2
         x: 611
@@ -152,7 +152,7 @@ TextureImporter:
         width: 229
         height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_2
+      name: caneca_vacia
       rect:
         serializedVersion: 2
         x: 885
@@ -173,7 +173,7 @@ TextureImporter:
         width: 141
         height: 161
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,15 +186,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_3
+      name: encimera_limpia
       rect:
         serializedVersion: 2
         x: 1066
-        y: 765
-        width: 460
-        height: 244
+        y: 766
+        width: 228
+        height: 220
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_4
+      name: basura_1
       rect:
         serializedVersion: 2
         x: 861
@@ -215,7 +215,7 @@ TextureImporter:
         width: 54
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_5
+      name: basura_2
       rect:
         serializedVersion: 2
         x: 906
@@ -236,7 +236,7 @@ TextureImporter:
         width: 137
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_6
+      name: libro_cerrado
       rect:
         serializedVersion: 2
         x: 1343
@@ -257,7 +257,7 @@ TextureImporter:
         width: 149
         height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -265,27 +265,6 @@ TextureImporter:
       bones: []
       spriteID: 1f9c60ba92687f442ac33f661d6d4457
       internalID: 685729087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: assets1_7
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 422
-        width: 5
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d57f97ae2ed7da4e8891503a2c7c2b4
-      internalID: 452945651
       vertices: []
       indices: 
       edges: []
@@ -299,7 +278,7 @@ TextureImporter:
         width: 263
         height: 204
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -312,7 +291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_9
+      name: libro_abierto
       rect:
         serializedVersion: 2
         x: 387
@@ -320,7 +299,7 @@ TextureImporter:
         width: 222
         height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,28 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_10
-      rect:
-        serializedVersion: 2
-        x: 741
-        y: 375
-        width: 66
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f02497476e9068c4b81f2989a5df6093
-      internalID: 954576696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: assets1_11
+      name: florero_sucio
       rect:
         serializedVersion: 2
         x: 913
@@ -362,7 +320,7 @@ TextureImporter:
         width: 88
         height: 153
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,15 +333,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_12
+      name: crayones
       rect:
         serializedVersion: 2
         x: 640
         y: 239
-        width: 137
-        height: 123
+        width: 173
+        height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -396,7 +354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_13
+      name: basura_3
       rect:
         serializedVersion: 2
         x: 401
@@ -404,7 +362,7 @@ TextureImporter:
         width: 192
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,7 +375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_14
+      name: olla
       rect:
         serializedVersion: 2
         x: 642
@@ -425,7 +383,7 @@ TextureImporter:
         width: 148
         height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -438,7 +396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_15
+      name: pollo_descongelado
       rect:
         serializedVersion: 2
         x: 1349
@@ -446,7 +404,7 @@ TextureImporter:
         width: 140
         height: 98
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -459,7 +417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: assets1_16
+      name: basura_4
       rect:
         serializedVersion: 2
         x: 391
@@ -467,7 +425,7 @@ TextureImporter:
         width: 154
         height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -475,6 +433,27 @@ TextureImporter:
       bones: []
       spriteID: 384f9d45fcd72df4280e3636db9b5546
       internalID: -1649338753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaplatos_limpio
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 766
+        width: 228
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bf2500088959a4c87532569ae63450
+      internalID: 784386343
       vertices: []
       indices: 
       edges: []
@@ -491,22 +470,24 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       assets1_0: -1723117919
-      assets1_1: -13881818
+      assets1_1: 1959153361
       assets1_10: 954576696
-      assets1_11: -1599843824
-      assets1_12: -1458804462
-      assets1_13: -95675747
-      assets1_14: 1457036514
-      assets1_15: 381869015
-      assets1_16: -1649338753
-      assets1_2: -2018819035
-      assets1_3: 1823775898
-      assets1_4: -371847484
-      assets1_5: 595066298
-      assets1_6: 685729087
       assets1_7: 452945651
       assets1_8: 53821864
-      assets1_9: -1678950119
+      basura_1: -371847484
+      basura_2: 595066298
+      basura_3: -95675747
+      basura_4: -1649338753
+      caneca_vacia: -2018819035
+      crayones: -1458804462
+      encimera_limpia: 1823775898
+      florero_sucio: -1599843824
+      horno_cerrado: -13881818
+      lavaplatos_limpio: 784386343
+      libro_abierto: -1678950119
+      libro_cerrado: 685729087
+      olla: 1457036514
+      pollo_descongelado: 381869015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
